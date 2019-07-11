@@ -41,8 +41,8 @@ For the second instance, the mul-hot ft slot "title" contains 4 fts. We thus onl
 * model_dnn.py -- DNN model for click-through rate prediction
 * model_mem.py -- Deep memory network model for click-through rate prediction
 * model_wide_deep.py -- Wide & Deep model for click-through rate prediction
-* model_mem_wide_deep.py -- Wide & Deep model with user memory network for click-through rate prediction
-* train_mem.py -- Train script for deep memory network, and you can train other models by modify this script
+* model_mem_wide_deep.py -- Wide & Deep model with user memory network unit for click-through rate prediction
+* train_mem.py -- Training script for deep memory network, and you can train other models by modifing this script
 
 ## Run the Code
 First revise the config file, and then run the code
